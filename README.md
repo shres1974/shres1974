@@ -41,7 +41,6 @@ I'm a Computer Science student at Carleton University specializing in Software E
 
 I am actively seeking a Software Engineering Internship for Summer 2027! 
 * 💼 **LinkedIn:** [linkedin.com/in/nischalshres](https://linkedin.com/in/nischalshres)
-* 🌐 **Portfolio:** [nischal.dev](https://nischal.dev)
 * ✉️ **Email:** nischalshrestha@cmail.carleton.ca
 
 </details>
