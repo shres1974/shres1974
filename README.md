@@ -1,6 +1,6 @@
 # Hi there, I'm Nischal! 👋
 
-I'm a Computer Science student at Carleton University specializing in Software Engineering[cite: 1]. I am passionate about building scalable backend systems, distributed architecture, and robust APIs.
+I'm a Computer Science student at Carleton University specializing in Software Engineering. I am passionate about building scalable backend systems, distributed architecture, and robust APIs.
 
 *Click the sections below to learn more about my background! 👇*
 
@@ -8,10 +8,10 @@ I'm a Computer Science student at Carleton University specializing in Software E
 <summary><strong> 🏢 Where I've Worked </strong></summary>
 <br>
 
-* **Ericsson** — 5G Software Developer Co-op[cite: 1]
-* **Government of Canada** — Data Scientist Co-op[cite: 1]
-* **Interact Health PRO** — Full Stack Developer Intern[cite: 1]
-* **Carleton University** — Undergraduate Teaching Assistant[cite: 1]
+* **Ericsson** — 5G Software Developer Co-op
+* **Government of Canada** — Data Scientist Co-op
+* **Interact Health PRO** — Full Stack Developer Intern
+* **Carleton University** — Undergraduate Teaching Assistant
 
 </details>
 
@@ -19,9 +19,9 @@ I'm a Computer Science student at Carleton University specializing in Software E
 <summary><strong> 🛠️ My Tech Stack </strong></summary>
 <br>
 
-* **Languages:** Java, Python, Go, TypeScript/JavaScript, C++, SQL[cite: 1]
-* **Frameworks:** Spring Boot, Node.js, FastAPI, React.js, Next.js[cite: 1]
-* **Infrastructure:** Kubernetes, Docker, Kafka, AWS, PostgreSQL, Redis[cite: 1]
+* **Languages:** Java, Python, Go, TypeScript/JavaScript, C++, SQL
+* **Frameworks:** Spring Boot, Node.js, FastAPI, React.js, Next.js
+* **Infrastructure:** Kubernetes, Docker, Kafka, AWS, PostgreSQL, Redis
 
 </details>
 
@@ -39,9 +39,9 @@ I'm a Computer Science student at Carleton University specializing in Software E
 <summary><strong> 📫 Let's Connect! </strong></summary>
 <br>
 
-I am actively seeking a Software Engineering Internship for Summer 2027[cite: 1]! 
+I am actively seeking a Software Engineering Internship for Summer 2027! 
 * 💼 **LinkedIn:** [linkedin.com/in/nischalshres](https://linkedin.com/in/nischalshres)
-* 🌐 **Portfolio:** [nischal.dev](https://nischal.dev)[cite: 1]
-* ✉️ **Email:** nischalshrestha@cmail.carleton.ca[cite: 1]
+* 🌐 **Portfolio:** [nischal.dev](https://nischal.dev)
+* ✉️ **Email:** nischalshrestha@cmail.carleton.ca
 
 </details>
