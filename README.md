@@ -1,7 +1,7 @@
 # Hi there, I'm Nischal! 👋
 
 
-🔭 Currently a **5G swe @ Ericsson** &nbsp;|&nbsp; 🎯 Seeking a **SWE Internship for Summer 2027**
+🔭 Currently a **5G SWE @ Ericsson** &nbsp;|&nbsp; 🎯 Seeking a **SWE Internship for Summer 2027**
 
 
 
